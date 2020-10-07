@@ -23,4 +23,4 @@ You also have to watch where the computer puts its O. That could change what you
 
 If you always pay attention and look ahead, you'll never lose a game of Tic-Tac-Toe. You may not win, but at least you'll tie.
 
-### play the game [here]
+### play the game [here](https://shyam8523023069.github.io/Tic-Tac-Toe/)
